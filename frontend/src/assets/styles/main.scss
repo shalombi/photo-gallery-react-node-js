@@ -1,0 +1,24 @@
+// Setup
+@import "setup/variables";
+@import "setup/functions";
+@import "setup/mixins";
+
+// Basics
+@import "basics/helpers";
+@import "basics/layout";
+@import "basics/base";
+
+
+// Views
+@import "views/home-page";
+@import "views/gallery-app";
+
+// Components
+@import "cmps/app-header";
+@import "cmps/app-footer";
+@import "cmps/action-btns";
+@import "cmps/filter-by";
+@import "cmps/element-preview";
+@import "cmps/list";
+
+

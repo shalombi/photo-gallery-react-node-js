@@ -1,0 +1,17 @@
+.modal,
+.category-modal {
+    position: absolute;
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    bottom: 0;
+}
+
+.modal {
+    bottom: 50%;
+}
+
+.category-modal {
+    top: 50%;
+    right: 50%;
+}

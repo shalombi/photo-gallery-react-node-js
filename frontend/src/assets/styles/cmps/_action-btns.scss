@@ -1,0 +1,20 @@
+.actions {
+    button {
+        position: absolute;
+        top: 0;
+    }
+
+    .prev-btn {
+        left: 0;
+    }
+
+    .next-btn {
+        right: 0;
+    }
+
+    .choose-category-btn {
+        left: 50%;
+        right: 50%;
+        width: 120px;
+    }
+}
